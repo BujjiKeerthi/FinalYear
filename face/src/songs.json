@@ -1,0 +1,56 @@
+
+
+{
+    "Happy": [
+      { 
+        "name": "Dwapara", 
+        "src": "face/src/Songs/Dwapara(256k).mp3",
+        "coverImage": "face/src/Songs/imags/Krishnam.jpeg"
+      },
+      { 
+        "name": "Innunu_Bekagide", 
+        "src": "face/src/Songs/Innunu_Bekagide(256k).mp3",
+        "coverImage": "face/src/Songs/imags/innu.jpeg"
+      },
+      { 
+        "name": "Ra_Ra_Rakkamma", 
+        "src": "face/src/Songs/Ra_Ra_Rakkamma(256k).mp3",
+        "coverImage": "face/src/Songs/imags/rona.jpeg"
+      }
+    ],
+    "Sad": [
+      { 
+        "name": "Anntamma", 
+        "src": "face/src/Songs/Anntamma.mp3",
+        "coverImage": "face/src/Songs/imags/Rama.png"
+      },
+      { 
+        "name": "Mungaru_Maleye", 
+        "src": "face/src/Songs/Mungaru_Maleye(256k).mp3",
+        "coverImage": "face/src/Songs/imags/mugaru.jpeg"
+      },
+      { 
+        "name": "Sanchariyagu_Nee", 
+        "src": "face/src/Songs/Sanchariyagu_Nee(256k).mp3",
+        "coverImage": "face/src/Songs/imags/love.jpeg"
+      }
+    ],
+    
+      "Angry":[{ 
+        "name": "Obbane", 
+        "src": "face/src/Songs/Obbane(256k).mp3",
+        "coverImage": "images/obbane.jpeg"
+      },
+      {
+        "name": "Salaga__Title_Track", 
+        "src": "face/src/Songs/Salaga__Title_Track___From__Salaga__(256k).mp3",
+        "coverImage": "images/salaga.jpeg"
+      },
+      {
+        "name": "Ba_Ba_Ba_Na_Ready", 
+        "src": "face/src/Songs/Ba_Ba_Ba_Na_Ready(256k).mp3",
+       "coverImage": "face/src/images/baa.jpeg"
+      }
+    ]
+  }
+  
